@@ -4,7 +4,8 @@ print("hello world")
 # variables in python
 
 name="12344"
-print(name)
+for i in name:
+    print(i)
 
 sheriyans_code="harsh bahiya"  # snake case
 print(sheriyans_code)
@@ -27,6 +28,8 @@ print(type(v))
 # boolean datatypes
 b=True
 print(b)
+
+
 
 
 
